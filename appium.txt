@@ -1,0 +1,6 @@
+[caps]
+platformName = "Android"
+avd = "emulator-5554"
+deviceName = 'N910'
+app= "./build/General-Store.apk"
+
